@@ -4,4 +4,3 @@ A public repo showcasing some of my personal projects; of which I have worked ma
 Fair warning: inefficient, unoptimized code ahead... Tread carefully. Or just have fun playing around.
 
 1. <a href="https://justin-pal.itch.io/lichtpath" target="_blank">Lichtenberg Pathfinder</a>
-2. <a href="https://your.url.here" target="_blank">your link text</a>
