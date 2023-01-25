@@ -7,6 +7,6 @@ Fair warning: inefficient, unoptimized code ahead... Tread carefully. Or just ha
 <h2>Projects</h2>
 
 1. <a href="https://justin-pal.itch.io/lichtpath" target="_blank">Lichtenberg Pathfinder</a>
-   Peel your eyes for a glimpse of those nice lichtenberg figures.
+   <br>Peel your eyes for a glimpse of those nice lichtenberg figures.
 2. <a href="https://justin-pal.itch.io/wonkyball" target="_blank">Wonky Ball 8</a>
-   A fun & interactive game of pool with a twist
+   <br>A fun & interactive game of pool with a twist
