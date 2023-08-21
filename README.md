@@ -1,7 +1,7 @@
 
 <h2>About</h2>
 
-A public repo showcasing some of my personal projects; of which I have worked mainly throughout my first year.
+A public repo showcasing projects I've been involved in, either entirely or partially, as in team projects.
 
 <h2>Games</h2>
 
