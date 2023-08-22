@@ -30,6 +30,6 @@ I've always had an interest in gamedev, so tried my hand at it during my first y
 <br>
 1. Lichtenberg Pathfinder [<a href="https://justin-pal.itch.io/lichtpath" target="_blank">itch.io</a>]
    <br>Peel your eyes for a glimpse of those nice lichtenberg figures.
-   <br><br>
-2. Wonky Ball 8 [<a href="https://justin-pal.itch.io/wonkyball" target="_blank">itch.io</a>]
+   <br>
+<br>2. Wonky Ball 8 [<a href="https://justin-pal.itch.io/wonkyball" target="_blank">itch.io</a>]
    <br>A fun & interactive game of pool with a twist
