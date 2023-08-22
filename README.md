@@ -21,7 +21,7 @@ Projects I've been involved in with major contributions.
 
 <h2>Work Projects</h2>
 
-1. Salariogan (Java App)
+1. Salariogan (Java App) [<a href="https://github.com/justin-zz/Projects/blob/main/Project%20Files/Salariogan%20sample%20output.png" target="_blank">Sample Output</a>]
    <br>Based on clock-in/out times, calculates from provided data (rates, penalties, etc...) the final figure along with other useful datapoints
    - Makes use ZKTeco's UA760 series clocking capabilities to calculate employees' salaries for reference.
 
