@@ -6,13 +6,13 @@ A public repo showcasing projects I've been involved in, either entirely or part
 <h2>Team Projects</h2>
 Projects I've been involved in with major contributions.
 
-1. <a href="https://github.com/justin-zz/Projects/blob/main/Project%20Reports/Mealer%20Project%20Report.pdf" target="_blank">Mealer (Android App)</a>
+1. Mealer (Android App) [<a href="https://github.com/justin-zz/Projects/blob/main/Project%20Reports/Mealer%20Project%20Report.pdf" target="_blank">Report</a>]
    <br>A 5-person project we undertook to create an aesthetic and intuitive application that connects customers directly to cooks.
    - Database hosted on Firebase & developed on Android Studio
    - Design patterns like composition used to manage users as Clients/Cooks/Admins; among others
    - DP search engine for meals
      
-2. <a href="https://github.com/justin-zz/Projects/blob/main/Project%20Reports/Sunshine%20Dentist%20Clinic%20Project%20Report.pdf" target="_blank">Sunshine Dentist Clinic (Web App)</a>
+2. Sunshine Dentist Clinic (Web App) [<a href="https://github.com/justin-zz/Projects/blob/main/Project%20Reports/Sunshine%20Dentist%20Clinic%20Project%20Report.pdf" target="_blank">Report</a>]
    <br>Another project undertaken by 5 people to create a website for a hospital that can handle several branches.
    - Built with Java using PostgreSQL, Apache Tomcat and hosted locally w/ SoftEther VPN
    - Using JSP & servlets, users would smoothly navigate through their views: such as dentists, patients, recepcionists, etc...
