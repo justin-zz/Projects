@@ -27,7 +27,7 @@ Projects I've been involved in with major contributions.
 
 <h2>Games</h2>
 I've always had an interest in gamedev, so tried my hand at it during my first year.
-<br>
+
 1. <a href="https://justin-pal.itch.io/lichtpath" target="_blank">Lichtenberg Pathfinder</a>
    <br>Peel your eyes for a glimpse of those nice lichtenberg figures.
 2. <a href="https://justin-pal.itch.io/wonkyball" target="_blank">Wonky Ball 8</a>
